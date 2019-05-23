@@ -72,7 +72,7 @@ public class Register extends AppCompatActivity {
                     pd.setMessage("Loading...");
                     pd.show();
 
-                    String url = "https://androidchatapp-76776.firebaseio.com/users.json";
+                    String url = "https://mychatapp-60b28.firebaseio.com/";
 
                     StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>(){
                         @Override
