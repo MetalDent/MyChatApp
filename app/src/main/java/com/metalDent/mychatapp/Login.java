@@ -56,7 +56,7 @@ public class Login extends AppCompatActivity {
                     password.setError("can't be blank");
                 }
                 else{
-                    String url = "https://mychatapp-60b28.firebaseio.com/";
+                    String url = "https://console.firebase.google.com/project/mychatapp-60b28/database/firestore/data~2F";
                     final ProgressDialog pd = new ProgressDialog(Login.this);
                     pd.setMessage("Loading...");
                     pd.show();

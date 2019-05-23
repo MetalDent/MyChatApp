@@ -72,7 +72,7 @@ public class Register extends AppCompatActivity {
                     pd.setMessage("Loading...");
                     pd.show();
 
-                    String url = "https://mychatapp-60b28.firebaseio.com/";
+                    String url = "https://console.firebase.google.com/project/mychatapp-60b28/database/firestore/data~2F";
 
                     StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>(){
                         @Override
