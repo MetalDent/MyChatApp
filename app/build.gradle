@@ -29,7 +29,8 @@ dependencies {
     api 'com.firebase:firebase-client-android:2.5.2'
     api 'com.android.volley:volley:1.1.0'
 
-    implementation 'com.google.firebase:firebase-core:16.0.9'
+    implementation 'com.google.firebase:firebase-core:16.0.7'
+    implementation 'com.google.firebase:firebase-database:16.0.6'
     implementation 'com.android.support:design:28.0.0'
     api 'com.google.firebase:firebase-auth:9.2.1'
     api 'com.firebaseui:firebase-ui-auth:2.3.0'
