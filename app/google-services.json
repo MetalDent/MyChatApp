@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090324820760",
+    "firebase_url": "https://mychatapp-60b28.firebaseio.com",
+    "project_id": "mychatapp-60b28",
+    "storage_bucket": "mychatapp-60b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090324820760:android:7f98fb8de5293bd8",
+        "android_client_info": {
+          "package_name": "com.metalDent.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090324820760-9bi21pcvbnde4tdstcvt292d4nnmj1ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metalDent.mychatapp",
+            "certificate_hash": "f51e13cae652dcb08e307b2f3c1321b3e4540e6b"
+          }
+        },
+        {
+          "client_id": "1090324820760-oa6t9v1l5ril50k4s41bin7eng7807gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7SAWG_bNYPyd_q-i0JBBrnjXvOZkANsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090324820760-oa6t9v1l5ril50k4s41bin7eng7807gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
